@@ -1,0 +1,15 @@
+    body{
+        margin: 0;
+        font-family: 'Bebas Neue', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+
+    }
+    h1{
+        font-size: 80px;
+        
+    }
+    .orange-color{
+        color: orangered;
+        font-size: 100px;
+    }
